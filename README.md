@@ -11,7 +11,7 @@ I'm a fullstack developer with 4+ years of experience, specialized in web, API, 
 
 #### Frameworks
 - TailwindCSS
-- Material UI
+- MUI
 - Express.js
 - Next.js
 - ReactNative
@@ -22,6 +22,7 @@ I'm a fullstack developer with 4+ years of experience, specialized in web, API, 
 #### Databases
 - MongoDB
 - MySQL
+- PostgreSQL
 
 #### Tools
 - Visual Studio Code
