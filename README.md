@@ -1,13 +1,13 @@
 ### Hey, there 👋
 
-I'm a fullstack developer with 4+ years of experience, specialized in web, API, and mobile application development.
+I'm a software engineer with 5+ years of experience. I enjoy making everyone life better overtime.
 
 #### Programming Languages
 - HTML, CSS, JavaScript
 - Node.JS
+- Typescript
 - Python
 - Dart
-- Typescript
 
 #### Frameworks
 - TailwindCSS
@@ -35,3 +35,8 @@ I'm a fullstack developer with 4+ years of experience, specialized in web, API, 
 - Docker
 - DigitalOcean
 - Firebase
+- GitHub Actions
+
+#### Professional Skills
+- Project Management
+- Team Lead
