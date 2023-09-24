@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-I'm a software engineer with 5+ years of experience. I enjoy making everyone life better overtime.
+I'm a software engineer with 5+ years of experience. I enjoy making everyone life better. I love efficiency, automation, zero waste, agility, and minimalism.
 
 #### Programming Languages
 - HTML, CSS, JavaScript
