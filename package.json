@@ -1,0 +1,38 @@
+{
+  "name": "banlytong",
+  "version": "1.0.0",
+  "description": "personal profile",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BanlyTong/BanlyTong.git"
+  },
+  "keywords": [
+    "banlytong"
+  ],
+  "author": "BanlyTong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BanlyTong/BanlyTong/issues"
+  },
+  "homepage": "https://github.com/BanlyTong/BanlyTong#readme",
+  "dependencies": {
+    "next": "^14.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.25",
+    "@types/react": "18.2.64",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.4.2"
+  }
+}
