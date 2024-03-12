@@ -31,7 +31,7 @@ jobs:
           node-version: '20.x'
       - uses: 'google-github-actions/auth@v1'
         with:
-          workload_identity_provider: 'projects/637407567723/locations/global/workloadIdentityPools/github-actions/providers/github'
+          workload_identity_provider: 'projects/637407567723/locations/global/workloadIdentityPools/github-actions/providers/github-actions' 
           service_account: 'github-service-account@nimble-service-416910.iam.gserviceaccount.com'
       - name: Set up Cloud SDK
         uses: 'google-github-actions/setup-gcloud@v2'
