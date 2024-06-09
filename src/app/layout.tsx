@@ -1,6 +1,13 @@
 import type { Metadata } from 'next'
 
 import './globals.css'
+import { Navbar } from '@/components/organisms/Navbar'
+import { Fira_Code } from 'next/font/google'
+
+const fira = Fira_Code({
+  subsets: ['latin'],
+  variable: '--font-fira',
+})
 
 export const metadata: Metadata = {
   title: 'Banly Tong | Software Engineer',
@@ -14,7 +21,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className={`${fira.variable} font-sans`}>
+        <Navbar />
+        {children}
+      </body>
     </html>
   )
 }
