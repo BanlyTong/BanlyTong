@@ -12,10 +12,10 @@ export function NavbarItem(props: IProps) {
   return (
     <h6
       className={classNames(
-        disabled ? "cursor-not-allowed text-gray-500" : "cursor-pointer",
-        active && "text-yellow-500"
+        disabled ? "cursor-not-allowed text-slate-400" : "cursor-pointer",
+        active && "text-yellow-600"
       )}
-      onClick={onClick}
+      onClick={disabled ? null : onClick}
     >
       {name}
     </h6>

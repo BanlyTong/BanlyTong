@@ -10,7 +10,8 @@ const PAGE = {
   PROFILE: "Profile",
 };
 
-const PAGES = [PAGE.ABOUT, PAGE.PORTFOLIO, PAGE.BLOG, PAGE.PROFILE];
+// const PAGES = [PAGE.ABOUT, PAGE.PORTFOLIO, PAGE.BLOG, PAGE.PROFILE];
+const PAGES = [];
 
 export function Navbar() {
   const [pageName, setPageName] = useState<string>(PAGE.HOME);
