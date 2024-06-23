@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-I'm a software engineer with 5+ years of experience. I enjoy making everyone life better. I love efficiency, automation, zero waste, agility, and minimalism.
+I'm a software engineer with 6+ years of experience, working from local to region startup using wide range of technologies for various projects across industries with dynamic teams, remote based from different countries include Japan, Malaysia, Indonesia and more.
 
 #### Programming Languages
 - HTML, CSS, JavaScript
