@@ -21,7 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${fira.variable} font-sans`}>
+      <body className={`${fira.variable} font-sans bg-slate-900 text-slate-200`}>
         <Navbar />
         {children}
       </body>
