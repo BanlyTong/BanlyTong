@@ -1,42 +1,41 @@
 ### Hey, there 👋
 
-I'm a software engineer with 6+ years of experience, working from local to region startup using wide range of technologies for various projects across industries with dynamic teams, remote based from different countries include Japan, Malaysia, Indonesia and more.
+I'm a software engineer with 7+ years in tech, driving regional-scale projects, utilizing today technologies and collaborating remotely with diverse teams across Asia.
 
 #### Programming Languages
-- HTML, CSS, JavaScript
-- Node.JS
-- Typescript
+- Node.JS, Typescript
 - Python
 - Dart
+- Go
 
 #### Frameworks
-- TailwindCSS
-- MUI
+- TailwindCSS, MUI
 - Express.js
 - Next.js
-- ReactNative
 - Flutter
-- GraphQL
+- GraphQL, Redux
 - Prisma
 
 #### Databases
 - MongoDB
-- MySQL
 - PostgreSQL
 
 #### Tools
 - Visual Studio Code
 - Git
 - GitHub
-- Jira, Confluence, BitBucket
+- Jira, Confluence
 
 #### CI/CD
-- Heroku
+- Vercel
 - Docker
 - DigitalOcean
 - Firebase
-- GitHub Actions
+- GCP, AWS
+- Google Analytics, Mixpanel
 
 #### Professional Skills
-- Project Management
-- Team Lead
+- Product Management
+- Agile Advocate
+- Leadership
+- Senior/Mentor
