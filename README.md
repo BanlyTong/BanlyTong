@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-I'm a software engineer with 7+ years in tech, driving regional-scale projects, utilizing today technologies and collaborating remotely with diverse teams across Asia.
+I'm a software engineer with 8+ years in tech, driving regional-scale projects, utilizing today technologies and collaborating remotely with diverse teams across Asia.
 
 #### Programming Languages
 - Node.JS, Typescript
